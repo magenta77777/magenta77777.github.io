@@ -68,7 +68,7 @@ languages:
             url: post
             weight: 4
           - identifier: archive
-            name: ⌚Archive
+            name: ⏱️Archive
             url: archive/
             weight: 20
           - identifier: tags
