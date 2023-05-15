@@ -40,6 +40,19 @@ scientific research capability
 
 Language
 
+<style>
+.container {
+  display: flex;
+  justify-content: center;
+  max-width: 100px;
+  margin: 0 auto;
+}
+</style>
+<div class="container">   
+  <p>First paragraph</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+  <p>Second paragraph</p> 
+</div>
+
 
 ## Interests
 Go Usage
