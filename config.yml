@@ -60,13 +60,13 @@ languages:
             url: /
             weight: 2
           - identifier: about
-            name: 🙋🏻‍♂️About
+            name: 👨‍💻About
             url: about
-            weight: 50
+            weight: 3
           - identifier: post
             name: 📚Blog
             url: post
-            weight: 3
+            weight: 4
           - identifier: archive
             name: ⌚Archive
             url: archive/
