@@ -22,7 +22,7 @@ cover:
 
 
 ## BIO
-<img src="http://magenta-note-1305707521.coscd.myqcloud.com/JiangHan.jpg" align='right' alt="JiangHan" style="zoom:10%; padding:100px"/>I am Jiang Han, an undergraduate student major in **software engineering**, [Hunan University](https://www.hnu.edu.cn), Chang Sha city, China.
+<img src="http://magenta-note-1305707521.coscd.myqcloud.com/JiangHan.jpg" align='right' alt="JiangHan" style="zoom:15%; padding:100px"/>I am Jiang Han, an undergraduate student major in **software engineering**, [Hunan University](https://www.hnu.edu.cn), Chang Sha city, China.
 
 
 ## Skill
