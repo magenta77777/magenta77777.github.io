@@ -51,14 +51,18 @@ languages:
             url: post/any
       menu:
         main:
-          - identifier: search
-            name: 🔍Search
-            url: search
-            weight: 1
+#           - identifier: search
+#             name: 🔍Search
+#             url: search
+#             weight: 1
           - identifier: home
             name: 🏠Home
             url: /
             weight: 2
+          - identifier: about
+            name: 🙋🏻‍♂️About
+            url: about
+            weight: 50
           - identifier: post
             name: 📚Blog
             url: post
@@ -71,10 +75,7 @@ languages:
             name: 🔖Tags
             url: tag
             weight: 40
-          - identifier: about
-            name: 🙋🏻‍♂️About
-            url: about
-            weight: 50
+
 
 outputs:
     home:
