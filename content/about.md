@@ -44,7 +44,7 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 .container {
   display: flex;
   justify-content: center;
-  max-width: 100px;
+  max-width: 500px;
   margin: 0 auto;
 }
 </style>
