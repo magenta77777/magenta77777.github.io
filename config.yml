@@ -37,7 +37,7 @@ languages:
       profileMode:
         enabled: true
         title: ^_^
-        subtitle: "Welcome to bmlv9909's Blog"
+        subtitle: "Welcome to Jiang Han's Page"
         imageUrl: "img/icon.png"
         imageTitle:
         imageWidth: 250
@@ -46,9 +46,9 @@ languages:
           - name: Tech.
             url: post/tech
           - name: Univ.
-            url: post/college
-          - name: Any.
-            url: post/anything
+            url: post/univ
+          - name: Any
+            url: post/any
       menu:
         main:
           - identifier: search
@@ -64,7 +64,7 @@ languages:
             url: post
             weight: 3
           - identifier: archive
-            name: ⌚️Archive
+            name: ⌚Archive
             url: archive/
             weight: 20
           - identifier: tags
@@ -112,7 +112,9 @@ params:
         - name: github
           url: "https://github.com/magenta77777"
         - name: email
-          url: "mailto:281597094@qq.com"
+          url: "mailto:hanjiang@hnu.edu.cn"
+        - name: twitter
+          url: "https://twitter.com/magenta77777"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
@@ -120,7 +122,7 @@ params:
     #     appendFilePath: true # to append file path to Edit link
 
     label:
-        text: "bmlv9909's Blog"
+        text: "Jiang Han's Page"
         icon: "img/icon.png"
         iconHeight: 35
 
