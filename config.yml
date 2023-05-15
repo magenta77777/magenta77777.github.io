@@ -1,6 +1,6 @@
 baseURL: http://www.bmlv9909.com/
-languageCode: zh-cn
-title: bmlv9909's Blog
+languageCode: en-us
+title: Jiang Han
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -43,36 +43,36 @@ languages:
         imageWidth: 250
         imageHeight: 250
         buttons:
-          - name: 学技术
+          - name: Tech.
             url: post/tech
-          - name: 上大学
+          - name: Univ.
             url: post/college
-          - name: Anything
+          - name: Any.
             url: post/anything
       menu:
         main:
           - identifier: search
-            name: 🔍搜索
+            name: 🔍Search
             url: search
             weight: 1
           - identifier: home
-            name: 🏠主页
+            name: 🏠Home
             url: /
             weight: 2
           - identifier: post
-            name: 📚文章
+            name: 📚Blog
             url: post
             weight: 3
           - identifier: archive
-            name: ⌚️时间轴
+            name: ⌚️Archive
             url: archive/
             weight: 20
           - identifier: tags
-            name: 🔖标签
+            name: 🔖Tags
             url: tag
             weight: 40
           - identifier: about
-            name: 🙋🏻‍♂️关于
+            name: 🙋🏻‍♂️About
             url: about
             weight: 50
 
