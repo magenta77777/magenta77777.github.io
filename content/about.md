@@ -22,7 +22,7 @@ cover:
 
 
 ## BIO
-<img src="http://magenta-note-1305707521.coscd.myqcloud.com/JiangHan.jpg" align='right' alt="JiangHan" style="zoom:15%; padding:100px"/> I am currently an undergraduate student in the [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn) at [Hunan University](https://www.hnu.edu.cn), major in **Software Engineering**.
+<img src="http://magenta-note-1305707521.coscd.myqcloud.com/JiangHan.jpg" align='right' alt="JiangHan" style="zoom:15%; padding:150px"/> I am currently an undergraduate student in the [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn) at [Hunan University](https://www.hnu.edu.cn), major in **Software Engineering**.
 
 I am currently developing in Go language and related tools, whose pros are considered as flexibility, efficiency, versatility, and power. A growing community gives such great language soil to grow, I am also determined to contribute to it.
 
