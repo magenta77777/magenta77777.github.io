@@ -35,14 +35,45 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 ## 
 
 
+<div>
+  <img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-15%20at%2020.35.22-20230516125323454.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />
+  <p style='position:absolute; left:200px'>
+    It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
+  </p>
+</div>
 
-<img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-15%20at%2020.35.22.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
+<br><br><br><br>
+<br><br><br><br>
 
-<img src="http://magenta-note-1305707521.coscd.myqcloud.com/image-20230515204948237.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
+<div>
+  <img src="http://magenta-note-1305707521.coscd.myqcloud.com/image-20230515204948237.png" alt="Screenshot 2023-05-15 at 20.35.22" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:15%; padding:200px" />
+  <p style='position:absolute; left:200px'>
+    It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
+  </p>
+</div>
 
-<img src="http://magenta-note-1305707521.coscd.myqcloud.com/lang-1.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
+<br><br><br><br>
+<br><br><br><br>
 
-<img src="http://magenta-note-1305707521.coscd.myqcloud.com/atom-1.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
+<div>
+  <img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:13%; padding:200px" />
+  <p style='position:absolute; left:200px'>
+    It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
+  </p>
+</div>
+
+<br><br><br><br>
+<br><br><br><br>
+
+<div>
+  <img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.04.26-2.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:10%; padding:200px" />
+  <p style='position:absolute; left:200px'>
+    It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
+  </p>
+</div>
+
+<br><br><br><br>
+<br><br><br><br>
 
 
 
