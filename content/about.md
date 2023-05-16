@@ -36,38 +36,13 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 
 
 
-<style>
-.container {
-  display: flex;
-  justify-content: center;
-  max-width: 500px;
-  margin: 0 auto;
-}
-</style>
+<img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-15%20at%2020.35.22.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
 
+<img src="http://magenta-note-1305707521.coscd.myqcloud.com/image-20230515204948237.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
 
-<div class="container">
-	<img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-15%20at%2020.35.22.png" alt="Screenshot 2023-05-15 at 20.35.22" style="zoom:7%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://magenta-note-1305707521.coscd.myqcloud.com/image-20230515204948237.png" alt="image-20230515204948237" style="zoom:24%;" /></center>
-</div>
+<img src="http://magenta-note-1305707521.coscd.myqcloud.com/lang-1.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
 
-
-<div class="container">
-	<p>Golang</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<p>Docker
-</div>
-
-
-<div class="container">
-	<p>It is very very very very very very very very very very very very very very very very very very very very very very good</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<p>It is very very very very very very very very very very very very very very very very very very very very very very good</p>
-</div>
-<div class="container">
-<img src="http://magenta-note-1305707521.coscd.myqcloud.com/lang-1.png" alt="lang-1" style="zoom:45%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://magenta-note-1305707521.coscd.myqcloud.com/atom-1.png" alt="atom-1" style="zoom:40%;" />
-</div>
-<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scientific research</center></p>
-
-
+<img src="http://magenta-note-1305707521.coscd.myqcloud.com/atom-1.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
 
 
 
