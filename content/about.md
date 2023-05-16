@@ -26,7 +26,7 @@ cover:
 
 I mainly develop in Go language and related tools, whose pros are considered as flexibility, efficiency, availability, and high performance in concurrent programming, with nearly few cons. A growing community gives such great language soil to grow, I am also determined to contribute to it.
 
-My research interests mainly focus on the use of practical applications related to Golang, i.e. Docker, Kubernetes, Trojan, as well as cloud computing infrastructure and architecture, which give a higher speed and better service whith lower cost and delay.
+My research interests mainly focus on the use of practical applications related to Golang, i.e. Docker, Kubernetes, Trojan-go, Caddy, as well as cloud computing infrastructure and architecture, which give a higher speed and better service whith lower cost and delay.
 
 I am learning Rust-lang too! A deeper understanding of C-like language will be of great benefit to not only my following graduate stage, but also my personal development and contributions to open-source projects.
 
