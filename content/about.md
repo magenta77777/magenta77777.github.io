@@ -67,10 +67,11 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 <div>
   <img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.04.26-2.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:9%; padding:200px" />
   <p style='position:absolute; left:200px'>
-    Basic science research skills: critical thinking, experimental design, data collection and analysis, literature review, code reading, collaboration,  and presentation skills. 
-   「Paper is not the purpose, but to give insights and inspiration」
+    &nbsp;&nbsp;&nbsp;&nbsp;Basic science research skills: critical thinking, experimental design, data collection and analysis, literature review, code reading, collaboration,  and presentation skills. <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;「Paper is not the purpose, but to give insights and inspiration」
   </p>
 </div>
+<br><br><br><br>
 
 ## Interests
 Go Usage
