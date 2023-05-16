@@ -46,7 +46,7 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 <br><br><br><br>
 
 <div>
-  <img src="http://magenta-note-1305707521.coscd.myqcloud.com/doccccccc.png" alt="Screenshot 2023-05-15 at 20.35.22" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:15%; padding:200px" />
+  <img src="http://magenta-note-1305707521.coscd.myqcloud.com/doccccccc.png" alt="Screenshot 2023-05-15 at 20.35.22" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:12%; padding:200px" />
   <p style='position:absolute; left:200px'>
     It is very very very very very very very very very very very very very very very very very very very very very very goodIt is very very very very very very very very very very very very very very very very very very very very very very good
   </p>
