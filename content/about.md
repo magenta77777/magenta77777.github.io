@@ -126,7 +126,6 @@ Parallel & Distributed Computing
 </div>
     
 <br><br><br><br>
-<br><br><br><br>
 <div class="container">
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 1">
