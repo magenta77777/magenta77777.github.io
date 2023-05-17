@@ -140,8 +140,3 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
   </div>
 
 </div>
-<br>
-
-    
-
-## Learning Route
