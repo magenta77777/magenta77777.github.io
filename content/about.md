@@ -47,13 +47,15 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 }
 
 .imagea {
-  width: 100px;
-  height: auto;
+  width: 110px;
+  height: auto;  
+  position: relative;
+  left: 50px;
 }
 
 .texta {
-  margin-left: 20px;
-  font-size: 16px;
+  margin-left: 100px;
+  font-size: 18px;
   max-width: 500px;
 }
 </style>
