@@ -86,7 +86,7 @@ Parallel & Distributed Computing
 .container {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .part {
@@ -116,12 +116,12 @@ Parallel & Distributed Computing
 
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 2">
-    <p class="text">Serverless & cloud computing<br> 1dsfbhjsdbhihbhsijibjihsjjakibhsijhakjksfbakfhkafbsdhakbdjdhsafjkadsfjkbiasfjibdasjbfjkasbfsbafjkbsajfbjaskdfbsakjdbfjksabfjkdsab</p>
+    <p class="text">Serverless & cloud computing<br> </p>
   </div>
 
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 3">
-    <p class="text">HPC<br> 1dsfbhjsdbhihbhsijibjihsjjakibhsijhakjksfbakfhkafbsdhakbdjdhsafjkadsfjkbiasfjibdasjbfjkasbfsbafjkbsajfbjaskdfbsakjdbfjksabfjkdsab</p>
+    <p class="text">HPC<br> </p>
   </div>
 </div>
     
@@ -130,7 +130,7 @@ Parallel & Distributed Computing
 <div class="container">
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 1">
-    <p class="text">Parallel & Distributed Computing 1dsfbhjsdbhihbhsijibjihsjjakibhsijhakjksfbakfhkafbsdhakbdjdhsafjkadsfjkbiasfjibdasjbfjkasbfsbafjkbsajfbjaskdfbsakjdbfjksabfjkdsab</p>
+    <p class="text">Parallel & Distributed Computing </p>
   </div>
 
   <div class="part">
