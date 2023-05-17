@@ -34,7 +34,55 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 ## Skill
 ## 
 
+<style>
+.containera {
+  display: flex;
+  flex-direction: column;
+}
 
+.parta {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.imagea {
+  width: 100px;
+  height: auto;
+}
+
+.texta {
+  margin-left: 20px;
+  font-size: 16px;
+  max-width: 500px;
+}
+</style>
+
+<div class="containera">
+  <div class="parta">
+    <img class="imagea" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-15%20at%2020.35.22-20230516125323454.png" alt="Image 1">
+    <p class="texta">&nbsp;&nbsp;&nbsp;&nbsp;Simplicity, efficiency, and concurrency.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Powerful, flexible, and protable.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;With its strong focus on clean syntax, robust standard library, and built-in support for concurrent programming, Go is widely used for scalable, high-performance systems and web applications.</p>
+  </div>
+
+  <div class="parta">
+    <img class="imagea" src="http://magenta-note-1305707521.coscd.myqcloud.com/doccccccc.png" alt="Image 2">
+    <p class="texta">&nbsp;&nbsp;&nbsp;&nbsp;Docker enables the automation of deploying and running of applications in lightweight, portable containers. <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;It provides a consistent environment, simplifies application scaling, and promotes efficient resource utilization for software development and deployment.</p>
+  </div>
+
+  <div class="parta">
+    <img class="imagea" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 3">
+    <p class="texta">&nbsp;&nbsp;&nbsp;&nbsp;C++, Rust, Python, and so on.Learning more language gives enhanced problem-solving skills, adaptability to different projects, improved understanding of fundamental concepts, increased career opportunities, and the ability to choose the most suitable language for specific tasks and technologies.</p>
+  </div>
+
+  <div class="parta">
+    <img class="imagea" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.04.26-2.png" alt="Image 4">
+    <p class="texta">&nbsp;&nbsp;&nbsp;&nbsp;Basic science research skills: critical thinking, experimental design, data collection and analysis, literature review, code reading, collaboration,  and presentation skills. <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;"Paper is not the purpose, but to give insights and inspiration"</p>
+  </div>
+</div>
 <div>
   <img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-15%20at%2020.35.22-20230516125323454.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />
   <p style='position:absolute; left:200px'>
@@ -109,8 +157,7 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
   word-wrap: break-word;
 }
 </style>
-</head>
-<body>
+
 
 <div class="container">
   <div class="part">
