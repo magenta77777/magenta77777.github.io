@@ -74,14 +74,6 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 <br><br><br><br><br><br>
 
 ## Interests
-Go Usage
-
-Cloud & Serverless
-
-Coding Language Enthusiast
-
-Parallel & Distributed Computing
-
 <style>
 .container {
   display: flex;
@@ -123,28 +115,28 @@ Parallel & Distributed Computing
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/data-security.png" alt="Image 1">
       <p class="ttl">System security</p> 
-      <p class="text">Not only OS, but also any software and application.</p>
+      <p class="text">Not only OS, but also any software and application. This basic but challenging topic encouages me keep learning.</p>
   </div>
 
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/serverless-header-image--1-.png" alt="Image 2">
     <p class="ttl">Serverless & Cloud<br> </p>
-    <p class="text">Not only OS, but also any software and application.</p>
+    <p class="text">Explore trade-offs in performance, efficiency of next-generation cloud systems. New concepts inspire me to dive down to low-level architecture</p>
   </div>
 </div>
     
-<br><br>
+<br>
 <div class="container">
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/download.png" alt="Image 1">
     <p class="ttl">HPC</p>
-    <p class="text">Parallel & Distributed Computing</p>
+    <p class="text">Mainly about parallel & distributed computing, contribute to the development of supercomputer.</p>
   </div>
 
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/clipart1113243.png" alt="Image 2">
     <p class="ttl"> Golang</p>
-    <p class="text">Design, development and usage</p>
+    <p class="text">Design, development and usage, anything motivate me keep coding in!</p>
   </div>
 
 </div>
