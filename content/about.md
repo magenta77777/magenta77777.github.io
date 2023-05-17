@@ -104,7 +104,7 @@ Parallel & Distributed Computing
 }
     
 .ttl {
-  font-size: 24px;
+  font-size: 28px;
   margin-top: 10px;
   max-width: 200px;
   word-wrap: break-word;
@@ -131,11 +131,9 @@ Parallel & Distributed Computing
     <p class="ttl">Serverless & Cloud<br> </p>
     <p class="text">Not only OS, but also any software and application.</p>
   </div>
-
-
 </div>
     
-<br><br><br><br>
+<br><br>
 <div class="container">
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/download.png" alt="Image 1">
@@ -150,7 +148,7 @@ Parallel & Distributed Computing
   </div>
 
 </div>
-<br><br><br><br>
+<br>
 
     
 
