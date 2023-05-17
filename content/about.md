@@ -92,11 +92,15 @@ Parallel & Distributed Computing
 .part {
   text-align: center;
   margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .image {
   width: 150px;
-  height: 150px;
+  height: auto;
 }
 
 .text {
@@ -110,30 +114,27 @@ Parallel & Distributed Computing
 
 <div class="container">
   <div class="part">
-    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 1">
+    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/data-security.png" alt="Image 1">
     <p class="text">System security<br> Not only OS, but also any software and application.</p>
   </div>
 
   <div class="part">
-    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 2">
+    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/serverless-header-image--1-.png" alt="Image 2">
     <p class="text">Serverless & cloud computing<br> </p>
   </div>
 
-  <div class="part">
-    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 3">
-    <p class="text">HPC<br> </p>
-  </div>
+
 </div>
     
 <br><br><br><br>
 <div class="container">
   <div class="part">
-    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 1">
-    <p class="text">Parallel & Distributed Computing </p>
+    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/download.png" alt="Image 1">
+    <p class="text">HPC<br>Parallel & Distributed Computing </p>
   </div>
 
   <div class="part">
-    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-16%20at%2013.05.20-2.png" alt="Image 2">
+    <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/clipart1113243.png" alt="Image 2">
     <p class="text"> Golang<br>Design, development and usage</p>
   </div>
 
