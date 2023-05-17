@@ -104,7 +104,7 @@ Parallel & Distributed Computing
 }
     
 .ttl {
-  font-size: 16px;
+  font-size: 24px;
   margin-top: 10px;
   max-width: 200px;
   word-wrap: break-word;
@@ -122,7 +122,7 @@ Parallel & Distributed Computing
 <div class="container">
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/data-security.png" alt="Image 1">
-      <p class="ttl">System security</p><br> 
+      <p class="ttl">System security</p> 
       <p class="text">Not only OS, but also any software and application.</p>
   </div>
 
@@ -139,13 +139,13 @@ Parallel & Distributed Computing
 <div class="container">
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/download.png" alt="Image 1">
-    <p class="ttl">HPC<br> </p>
+    <p class="ttl">HPC</p>
     <p class="text">Parallel & Distributed Computing</p>
   </div>
 
   <div class="part">
     <img class="image" src="http://magenta-note-1305707521.coscd.myqcloud.com/clipart1113243.png" alt="Image 2">
-    <p class="ttl"> Golang<br></p>
+    <p class="ttl"> Golang</p>
     <p class="text">Design, development and usage</p>
   </div>
 
