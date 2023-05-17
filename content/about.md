@@ -50,7 +50,7 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
   width: 110px;
   height: auto;  
   position: relative;
-  left: 50px;
+  left: 30px;
 }
 
 .texta {
