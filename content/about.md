@@ -50,13 +50,13 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
   width: 110px;
   height: auto;  
   position: relative;
-  left: 30px;
+  left: 20px;
 }
 
 .texta {
-  margin-left: 100px;
-  font-size: 18px;
-  max-width: 500px;
+  margin-left: 80px;
+  font-size: 20px;
+<!--   max-width: 600px; -->
 }
 </style>
 
