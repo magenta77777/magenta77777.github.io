@@ -39,7 +39,7 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
   <img src="http://magenta-note-1305707521.coscd.myqcloud.com/Screenshot%202023-05-15%20at%2020.35.22-20230516125323454.png" alt="Screenshot 2023-05-15 at 20.35.22" align='left' style="zoom:7%; padding:200px" />
   <p style='position:absolute; left:200px'>
     &nbsp;&nbsp;&nbsp;&nbsp;Simplicity, efficiency, and concurrency.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;powerful, flexible, and protable.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Powerful, flexible, and protable.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;With its strong focus on clean syntax, robust standard library, and built-in support for concurrent programming, Go is widely used for scalable, high-performance systems and web applications.
   </p>
 </div>
