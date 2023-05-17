@@ -71,10 +71,10 @@ languages:
             name: ⏱️Archive
             url: archive/
             weight: 20
-          - identifier: tags
-            name: 🔖Tags
-            url: tag
-            weight: 40
+#           - identifier: tags
+#             name: 🔖Tags
+#             url: tag
+#             weight: 40
 
 
 outputs:
