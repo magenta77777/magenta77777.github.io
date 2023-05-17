@@ -96,7 +96,7 @@ I am learning Rust-lang too! A deeper understanding of C-like language will be o
 }
     
 .ttl {
-  font-size: 26px;
+  font-size: 24px;
   margin-top: 10px;
   max-width: 200px;
   word-wrap: break-word;
