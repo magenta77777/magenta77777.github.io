@@ -99,8 +99,8 @@ Parallel & Distributed Computing
 }
 
 .image {
-  width: 150px;
-  height: auto;
+  width: auto;
+  height: 180px;
 }
 
 .text {
