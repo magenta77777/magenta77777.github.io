@@ -114,8 +114,8 @@ params:
           url: "https://github.com/magenta77777"
         - name: email
           url: "mailto:hanjiang@hnu.edu.cn"
-        - name: twitter
-          url: "https://twitter.com/magenta777777"
+#         - name: twitter
+#           url: "https://twitter.com/magenta777777"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
