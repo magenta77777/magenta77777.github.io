@@ -3,7 +3,7 @@ languageCode: en-us
 title: Jiang Han
 theme: "PaperMod"
 
-baseurl: "blog"
+baseurl: "blog/"
 
 enableInlineShortcodes: true
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
@@ -46,11 +46,11 @@ languages:
         imageHeight: 250
         buttons:
           - name: Tech.
-            url: blog/post/tech
+            url: blog/post/tech/
           - name: Univ.
-            url: blog/post/univ
+            url: blog/post/univ/
           - name: Any
-            url: blog/post/any
+            url: blog/post/any/
       menu:
         main:
 #           - identifier: search
@@ -63,11 +63,11 @@ languages:
             weight: 2
           - identifier: about
             name: 👨‍💻About
-            url: blog/about
+            url: blog/about/
             weight: 3
           - identifier: post
             name: 📚Blog
-            url: blog/post
+            url: blog/post/
             weight: 4
           - identifier: archive
             name: ⏱️Archive
@@ -126,7 +126,7 @@ params:
 
     label:
         text: "Jiang Han's Page"
-        icon: "img/icon.png"
+        icon: "blog/img/icon.png"
         iconHeight: 35
 
     # analytics:
@@ -134,11 +134,11 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-        favicon: "img/icon.gif"
-        favicon16x16: "img/icon.gif"
-        favicon32x32: "img/icon.gif"
-        apple_touch_icon: "img/icon.png"
-        safari_pinned_tab: "img/icon.png"
+        favicon: "blog/img/icon.gif"
+        favicon16x16: "blog/img/icon.gif"
+        favicon32x32: "blog/img/icon.gif"
+        apple_touch_icon: "blog/img/icon.png"
+        safari_pinned_tab: "blog/img/icon.png"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
