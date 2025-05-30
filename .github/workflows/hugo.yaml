@@ -25,7 +25,8 @@ jobs:
         cache: 'npm'
 
     - name: Install dependencies
-      run: npm ci
+      run: npm install
+           npm ci
 
     - name: Create config file
       run: |
